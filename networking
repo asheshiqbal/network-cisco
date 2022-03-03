@@ -1,0 +1,5 @@
+Hub - packet coming in a port will be sent to all other ports
+Bridge - software
+Switch - Hub + Bridge
+  ASIC (Application Specific I Circuitry)
+Router - 
