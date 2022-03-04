@@ -1,5 +1,7 @@
-Hub - packet coming in a port will be sent to all other ports
-Bridge - software
-Switch - Hub + Bridge
-  ASIC (Application Specific I Circuitry)
-Router - 
+Hub - packet coming in a port will be sent out to all other ports
+Bridge - intelligent forwarding decision by learning MACs, slow software based
+Switch - Fast as Hub + Intelligent as Bridge
+  ASIC (Application Specific Integrated Circuitry) - chip that converts software function of a bridge into hardware function for high speed
+  Layer 2 - CAM (Content Accessible Memory) table
+  Layer 3 - built-in routing
+Router - divides broadcast domain, allows unicast between different networks
