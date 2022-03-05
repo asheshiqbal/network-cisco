@@ -5,3 +5,7 @@ Switch - Fast as Hub + Intelligent as Bridge
   Layer 2 - CAM (Content Accessible Memory) table
   Layer 3 - built-in routing
 Router - divides broadcast domain, allows unicast between different networks
+Firewall
+  Transparent
+  Routed
+  
